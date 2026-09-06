@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./cyberpunk_coding_room_animated.gif" width="100%">
+</p>## Hi there 👋
 
 <!--
 **sherlyn-does/sherlyn-does** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
