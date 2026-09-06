@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./cyberpunk_coding_room_animated.gif" width="100%">
 </p># I love building games, experimenting with gameplay ideas, and turning random concepts into something you can actually play. I'm currently exploring Unity, programming, AI, and game development.
-🛠️ Tech Stack
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python,unity,git,github" />
