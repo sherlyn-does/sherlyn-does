@@ -4,7 +4,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python,unity,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,python,unity" />
 </p>
 
 <!--
